@@ -1,0 +1,4 @@
+RESUMEN SEMANA 1 
+
+En la primer semana del curso vimos varios temas como lo son el sistema binario, la soluciones de problemas
+y lo que mas me llamo la atención es lo del juego donde nos da una idea de como funciona ese juego me pareció muy interesante ya que podemos modificar al gusto de cada uno como queremos que reaccione al momento de estrellarse con los obstáculos o al momento de aletear como la suma de puntuación.
